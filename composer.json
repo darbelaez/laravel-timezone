@@ -1,5 +1,5 @@
 {
-    "name": "jamesmills/laravel-timezone",
+    "name": "darbelaez/laravel-timezone",
     "license": "MIT",
     "description": "Timezone storage and retrieval for Laravel",
     "keywords": [
@@ -10,6 +10,11 @@
         {
             "name": "James Mills",
             "email": "james@jamesmills.co.uk"
+        },
+        {
+            "name": "Diego Arbelaez",
+            "email": "diego@dnaweb.co",
+            "homepage": "https://dnaweb.co"
         }
     ],
     "require": {
