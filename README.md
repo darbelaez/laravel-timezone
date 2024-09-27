@@ -1,12 +1,12 @@
 # Laravel Timezone
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/jamesmills/laravel-timezone.svg?style=flat-square)](https://packagist.org/packages/jamesmills/laravel-timezone)
-[![Total Downloads](https://img.shields.io/packagist/dt/jamesmills/laravel-timezone.svg?style=flat-square)](https://packagist.org/packages/jamesmills/laravel-timezone)
-[![Licence](https://img.shields.io/packagist/l/jamesmills/laravel-timezone.svg?style=flat-square)](https://packagist.org/packages/jamesmills/laravel-timezone)
-[![Quality Score](https://img.shields.io/scrutinizer/g/jamesmills/laravel-timezone.svg?style=flat-square)](https://scrutinizer-ci.com/g/jamesmills/laravel-timezone)
-[![StyleCI](https://github.styleci.io/repos/142882574/shield?branch=master)](https://github.styleci.io/repos/142882574)
-[![Buy us a tree](https://img.shields.io/badge/treeware-%F0%9F%8C%B3-lightgreen?style=flat-square)](https://plant.treeware.earth/jamesmills/laravel-timezone)
-[![Treeware (Trees)](https://img.shields.io/treeware/trees/jamesmills/laravel-timezone?style=flat-square)](https://plant.treeware.earth/jamesmills/laravel-timezone)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/darbelaez/laravel-timezone.svg?style=flat-square)](https://packagist.org/packages/jamesmills/laravel-timezone)
+[![Total Downloads](https://img.shields.io/packagist/dt/jamesmills/laravel-timezone.svg?style=flat-square)](https://packagist.org/packages/darbelaez/laravel-timezone)
+[![Licence](https://img.shields.io/packagist/l/jamesmills/laravel-timezone.svg?style=flat-square)](https://packagist.org/packages/darbelaez/laravel-timezone)
+[![Quality Score](https://img.shields.io/scrutinizer/g/jamesmills/laravel-timezone.svg?style=flat-square)](https://scrutinizer-ci.com/g/darbelaez/laravel-timezone)
+[![StyleCI](https://github.styleci.io/repos/142882574/shield?branch=master)](https://github.styleci.io/repos/864033314)
+
+A fork of [jamesmills/laravel-timezone](https://github.com/jamesmills/laravel-timezone) 
 
 An easy way to set a timezone for a user in your application and then show date/times to them in their local timezone.
 
@@ -37,7 +37,7 @@ Or use our nice blade directive
 Pull in the package using Composer
 
 ```
-composer require jamesmills/laravel-timezone
+composer require darbelaez/laravel-timezone
 ```
 
 Publish database migrations
